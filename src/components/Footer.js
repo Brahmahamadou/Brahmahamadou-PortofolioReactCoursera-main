@@ -1,4 +1,4 @@
-import { Box, HStack, VStack, Flex } from '@chakra-ui/react';
+import { Box, HStack, VStack, Flex, Stack } from '@chakra-ui/react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faGithub, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons';
@@ -24,38 +24,25 @@ const socials = [
     icon: faFacebook,
     url: 'https://www.facebook.com/mahamadou.moussabrah',
   },
-  {
-    icon: faPhone,
-    number: '+22792004099',
-  },
 ];
-
 const Footer = () => {
   return (
     <Box as="footer" py={4} backgroundColor="#18181b" color="white" mt="auto">
       <VStack>
         <p>Suivez moi via mes differents comptes reseaux sociaux </p>
-        <HStack spacing={4}>
+        <Stack spacing={4} style={{ fontSize: '2rem' }} direction={['column', 'row']} alignItems="center">
           {socials.map((social, index) => (
-            social.number ? (
-              <HStack key={index} spacing={2}>
-                <FontAwesomeIcon icon={social.icon} size="lg" />
-                <Box fontSize="xl" color="white">
-                  {social.number}
-                </Box>
-              </HStack>
-            ) : (
-              <a
-                key={social.url}
-                href={social.url}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FontAwesomeIcon icon={social.icon} size="2x" />
-              </a>
-            )
+            <a
+              key={index}
+              href={social.url}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon icon={social.icon} size={['2x', 'lg']} />
+            </a>
           ))}
-        </HStack>
+        </Stack>
+        <hr style={{ width: '100%', margin: '10px 0' }} /> {/* Séparateur horizontal */}
       </VStack>
       <Flex
         margin="0 auto"
