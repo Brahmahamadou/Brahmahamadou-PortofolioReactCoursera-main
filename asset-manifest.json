@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Brahmahamadou-PortofolioReactCoursera/static/css/main.3043c34b.css",
-    "main.js": "/Brahmahamadou-PortofolioReactCoursera/static/js/main.fc54224e.js",
-    "static/js/111.944ce873.chunk.js": "/Brahmahamadou-PortofolioReactCoursera/static/js/111.944ce873.chunk.js",
-    "static/media/photo1.png": "/Brahmahamadou-PortofolioReactCoursera/static/media/photo1.b224003e9ed1c74d43af.png",
-    "static/media/photo2.png": "/Brahmahamadou-PortofolioReactCoursera/static/media/photo2.15ac9bc5b34973682d28.png",
-    "static/media/photo3.png": "/Brahmahamadou-PortofolioReactCoursera/static/media/photo3.4a95795323dc83018ff5.png",
-    "static/media/photo4.png": "/Brahmahamadou-PortofolioReactCoursera/static/media/photo4.10c5370bba43e8b3f358.png",
-    "static/media/mhd.jpg": "/Brahmahamadou-PortofolioReactCoursera/static/media/mhd.82c5f519c69b08dd18b0.jpg",
-    "static/media/mhd2.jpeg": "/Brahmahamadou-PortofolioReactCoursera/static/media/mhd2.fabc8aa9964e0fe9ff2b.jpeg",
-    "index.html": "/Brahmahamadou-PortofolioReactCoursera/index.html",
-    "main.3043c34b.css.map": "/Brahmahamadou-PortofolioReactCoursera/static/css/main.3043c34b.css.map",
-    "main.fc54224e.js.map": "/Brahmahamadou-PortofolioReactCoursera/static/js/main.fc54224e.js.map",
-    "111.944ce873.chunk.js.map": "/Brahmahamadou-PortofolioReactCoursera/static/js/111.944ce873.chunk.js.map"
+    "main.css": "/Brahmahamadou-PortofolioReactCoursera-main/static/css/main.3043c34b.css",
+    "main.js": "/Brahmahamadou-PortofolioReactCoursera-main/static/js/main.46e0a2e0.js",
+    "static/js/111.944ce873.chunk.js": "/Brahmahamadou-PortofolioReactCoursera-main/static/js/111.944ce873.chunk.js",
+    "static/media/photo1.png": "/Brahmahamadou-PortofolioReactCoursera-main/static/media/photo1.b224003e9ed1c74d43af.png",
+    "static/media/photo2.png": "/Brahmahamadou-PortofolioReactCoursera-main/static/media/photo2.15ac9bc5b34973682d28.png",
+    "static/media/photo3.png": "/Brahmahamadou-PortofolioReactCoursera-main/static/media/photo3.4a95795323dc83018ff5.png",
+    "static/media/photo4.png": "/Brahmahamadou-PortofolioReactCoursera-main/static/media/photo4.10c5370bba43e8b3f358.png",
+    "static/media/mhd.jpg": "/Brahmahamadou-PortofolioReactCoursera-main/static/media/mhd.82c5f519c69b08dd18b0.jpg",
+    "static/media/mhd2.jpeg": "/Brahmahamadou-PortofolioReactCoursera-main/static/media/mhd2.fabc8aa9964e0fe9ff2b.jpeg",
+    "index.html": "/Brahmahamadou-PortofolioReactCoursera-main/index.html",
+    "main.3043c34b.css.map": "/Brahmahamadou-PortofolioReactCoursera-main/static/css/main.3043c34b.css.map",
+    "main.46e0a2e0.js.map": "/Brahmahamadou-PortofolioReactCoursera-main/static/js/main.46e0a2e0.js.map",
+    "111.944ce873.chunk.js.map": "/Brahmahamadou-PortofolioReactCoursera-main/static/js/111.944ce873.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3043c34b.css",
-    "static/js/main.fc54224e.js"
+    "static/js/main.46e0a2e0.js"
   ]
 }
