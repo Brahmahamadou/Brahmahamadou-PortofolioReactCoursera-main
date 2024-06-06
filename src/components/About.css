@@ -1,0 +1,14 @@
+.contenant{
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+    background-color: #1E1E1F;
+    color: aliceblue;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.contenant .chakra-avatar__img {
+    border-radius: 15px; /* Appliquer une bordure arrondie */
+    width: 600px; /* Ajuster la largeur */
+    height: 500px; /* Ajuster la hauteur */
+  }
